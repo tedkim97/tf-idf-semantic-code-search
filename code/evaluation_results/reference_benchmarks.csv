@@ -1,0 +1,10 @@
+vectorizer,similarity_metric,min_df_param,max_df_param,language,langfilter,accuracy (%),accuracy (average relevancy > 0) (%),ndcg,ndcg (full rank)
+selfatt,None,None,None,python,False,17.09,18.32,0.239,0.167
+selfatt,None,None,None,go,False,6.63,8.65,0.101,0.058
+selfatt,None,None,None,java,False,11.19,14.42,0.173,0.115
+selfatt,None,None,None,javascript,False,9.40,13.25,0.153,0.060
+nbow,None,None,None,python,False,24.77,26.28,0.306,0.233
+nbow,None,None,None,go,False,15.06,21.15,0.221,0.146
+nbow,None,None,None,java,False,21.65,26.54,0.257,0.201
+nbow,None,None,None,javascript,False,21.32,25.30,0.232,0.152
+
